@@ -30,3 +30,4 @@ React Js (Front-end):
 3. Once all the dependencies are installed run the application using --->
     "npm start"
 It will start the server at port 3000.
+****make sure the react app will run in localhost:3000 as its allowed by the django cors origin (core-->settings.py)
